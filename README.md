@@ -1,58 +1,131 @@
+# SaaS FP&A Dashboard — End-to-End Analytics Project
 
-# SaaS FP&A Dashboard — End‑to‑End Finance Analytics Pipeline
+An end-to-end FP&A analytics project that simulates a SaaS company finance environment using Python, SQL (DuckDB), dimensional modeling, and Power BI.
 
-An end‑to‑end FP&A analytics project that simulates messy ERP, CRM, billing, and marketing data, cleans and validates it, builds a SQL star schema using DuckDB, and produces SaaS KPI views ready for Power BI dashboards.
-
-This project demonstrates **real-world FP&A data engineering + analytics modeling**.
-
----
-
-# Project Architecture
-
-Raw → Clean → Mart → SQL Star Schema → KPI Views → Power BI
-
-```
-Messy ERP / CRM exports
-        ↓
-data/raw
-        ↓
-Data Cleaning + Standardization
-        ↓
-data/clean
-        ↓
-KPI Mart Table
-        ↓
-data/mart
-        ↓
-DuckDB Star Schema
-        ↓
-vw_saas_monthly_kpis
-        ↓
-Power BI Dashboard
-```
+This project demonstrates how modern FP&A teams build scalable analytics pipelines, KPI models, and executive dashboards.
 
 ---
 
-# Metrics Modeled
+# Project Overview
 
-The pipeline produces:
+This project simulates a SaaS company with:
 
-- ARR
-- ARR Growth
-- Revenue
-- Active Customers
-- New Customers
-- Churn %
-- CAC
-- LTV
-- LTV/CAC
-- Gross Margin
-- Burn Rate
-- Runway (months)
-- ARPU
-- Marketing spend
-- Leads
-- Cash balance
+- ARR and MRR modeling  
+- Customer acquisition & churn  
+- CAC and LTV metrics  
+- Revenue recognition  
+- GL expense modeling  
+- Cash runway calculation  
+- Executive dashboard reporting  
+
+The pipeline transforms messy ERP-style data into a dimensional model powering a Power BI dashboard.
+
+---
+
+# Architecture
+
+Raw ERP Data  
+→ Data Cleaning (Python)  
+→ Validation Checks  
+→ DuckDB Star Schema  
+→ KPI SQL Views  
+→ Power BI Semantic Model  
+→ Executive Dashboard  
+
+---
+
+# Tech Stack
+
+Python (Pandas, NumPy)  
+DuckDB (SQL analytics layer)  
+Power BI (dashboard)  
+Dimensional Modeling (Star Schema)  
+SaaS Metrics (ARR, CAC, LTV, churn, runway)  
+
+---
+
+# Data Model
+
+Star schema design:
+
+Dimensions:
+- dim_month
+- dim_customer
+- dim_plan
+- dim_account
+
+Facts:
+- fact_revenue
+- fact_subscription
+- fact_gl
+- fact_sales_marketing
+- fact_cash
+
+The model uses a shared **dim_month** table for time-based relationships.
+
+![Data Model](assets/data_model.png)
+
+---
+
+# Dashboard Pages
+
+## Executive Overview
+
+Tracks company growth and profitability:
+
+- Revenue  
+- ARR  
+- ARR Growth  
+- Gross Margin  
+- Burn Rate  
+- Runway  
+
+![Executive Overview](assets/executive_overview.png)
+
+---
+
+## Unit Economics
+
+Tracks customer efficiency:
+
+- CAC  
+- LTV  
+- LTV / CAC  
+- ARPU  
+- Churn %  
+- Marketing efficiency  
+
+![Unit Economics](assets/unit_economics.png)
+
+---
+
+## Financial Health
+
+Tracks liquidity and cost structure:
+
+- Ending Cash  
+- Burn Rate  
+- Runway  
+- Expense mix  
+- Margin trend  
+
+![Financial Health](assets/financial_health.png)
+
+---
+
+# SaaS Metrics Implemented
+
+ARR  
+MRR  
+Revenue Growth  
+CAC  
+LTV  
+LTV / CAC  
+Churn Rate  
+Gross Margin  
+Burn Rate  
+Runway  
+ARPU  
 
 ---
 
@@ -61,22 +134,30 @@ The pipeline produces:
 ```
 saas-fpna-dashboard/
 │
+├── assets/
+│   ├── executive_overview.png
+│   ├── unit_economics.png
+│   ├── financial_health.png
+│   └── data_model.png
+│
+├── powerbi/
+│   └── saas_fpna_dashboard.pbix
+│
 ├── data/
 │   ├── raw/
 │   ├── clean/
 │   └── mart/
 │
-├── sql/
-│   ├── build_star_schema.sql
-│   ├── views_kpis.sql
-│   └── checks.sql
-│
 ├── src/
 │   ├── generate_data.py
-│   ├── audit_raw_data.py
 │   ├── transform_data.py
 │   ├── validate_data.py
-│   └── build_duckdb.py
+│   ├── build_duckdb.py
+│   └── export_powerbi_dataset.py
+│
+├── sql/
+│   ├── build_star_schema.sql
+│   └── views_kpis.sql
 │
 ├── run_pipeline.py
 ├── requirements.txt
@@ -85,152 +166,69 @@ saas-fpna-dashboard/
 
 ---
 
-# Run Entire Pipeline
+# Running the Project
 
-```
+Install dependencies:
+
 pip install -r requirements.txt
+
+Run the full pipeline:
+
 python run_pipeline.py
-```
 
----
+This will:
 
-# Individual Steps
-
-Generate messy ERP data
-
-```
-python src/generate_data.py
-```
-
-Audit raw data
-
-```
-python src/audit_raw_data.py
-```
-
-Transform clean + mart
-
-```
-python src/transform_data.py
-```
-
-Validate data
-
-```
-python src/validate_data.py
-```
-
-Build SQL star schema
-
-```
-python src/build_duckdb.py
-```
-
----
-
-# SQL Model
-
-Dimensions
-- dim_date
-- dim_customer
-- dim_plan
-- dim_account
-
-Facts
-- fact_revenue
-- fact_subscription
-- fact_gl
-- fact_sales_marketing
-- fact_cash
-
-Views
-- vw_saas_monthly_kpis
-- vw_saas_exec_summary
-
----
-
-# Example SQL Queries
-
-Monthly SaaS KPIs
-
-```
-SELECT *
-FROM vw_saas_monthly_kpis
-ORDER BY period;
-```
-
-Executive Summary
-
-```
-SELECT *
-FROM vw_saas_exec_summary;
-```
-
-ARR Growth
-
-```
-SELECT
-period,
-new_arr_booked,
-arr_growth_pct
-FROM vw_saas_monthly_kpis;
-```
+1. Generate messy ERP-style SaaS data  
+2. Clean and transform datasets  
+3. Validate data quality  
+4. Build DuckDB star schema  
+5. Create KPI views  
+6. Export Power BI dataset  
 
 ---
 
 # Power BI Dashboard
 
-Connect Power BI to:
+Open:
 
-```
-saas_fpna.duckdb
-```
+powerbi/saas_fpna_dashboard.pbix
 
-Import:
-
-```
-vw_saas_monthly_kpis
-```
-
-Recommended pages:
-
-Executive Overview
-- ARR growth
-- Gross margin
-- Burn rate
-- runway
-
-Unit Economics
-- LTV
-- CAC
-- LTV/CAC
-- churn
-
-Revenue
-- ARR
-- revenue
-- customers
+Click **Refresh** to load latest data.
 
 ---
 
-# Tech Stack
+# Key FP&A Use Cases Demonstrated
 
-Python  
-Pandas  
-DuckDB  
-SQL  
-Power BI  
+Executive SaaS reporting  
+Unit economics modeling  
+Financial runway analysis  
+Customer growth tracking  
+Expense structure analysis  
+Revenue forecasting base model  
+Dimensional modeling for finance  
 
 ---
 
-# Purpose
+# Why This Project Matters
 
 This project demonstrates:
 
-- SaaS FP&A modeling
-- messy ERP data handling
-- data cleaning pipelines
-- SQL star schema
-- KPI modeling
-- finance analytics engineering
-- dashboard-ready outputs
+- FP&A analytics engineering  
+- SaaS metrics modeling  
+- Financial KPI design  
+- Data pipeline architecture  
+- SQL dimensional modeling  
+- Power BI semantic modeling  
+- Executive dashboard design  
+
+---
+
+# Future Improvements
+
+Rolling forecast model  
+Scenario planning (Best/Base/Worst)  
+Cohort retention analysis  
+Net revenue retention  
+Multi-entity consolidation  
+Budget vs actual model  
+Streamlit interactive dashboard  
