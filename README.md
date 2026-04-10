@@ -232,3 +232,13 @@ Net revenue retention
 Multi-entity consolidation  
 Budget vs actual model  
 Streamlit interactive dashboard  
+
+---
+
+# Author
+
+**Md Siddik, ACCA**  
+Senior Financial Analyst | FP&A | Data Analytics | Power BI | SQL | Python  
+
+LinkedIn: https://www.linkedin.com/in/abubakkar-roby/
+Email: abubakkar.roby@email.com
