@@ -32,21 +32,51 @@ FROM read_csv_auto('data/clean/cash_balance_clean.csv', HEADER=TRUE);
 -- -----------------------------------
 CREATE TABLE dim_date AS
 WITH all_dates AS (
-    SELECT DISTINCT CAST(signup_date AS DATE) AS dt FROM stg_customers WHERE signup_date IS NOT NULL
+    SELECT DISTINCT CAST(signup_date AS DATE) AS dt
+    FROM stg_customers
+    WHERE signup_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(start_date AS DATE) AS dt FROM stg_subscriptions WHERE start_date IS NOT NULL
+
+    SELECT DISTINCT CAST(start_date AS DATE) AS dt
+    FROM stg_subscriptions
+    WHERE start_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(end_date AS DATE) AS dt FROM stg_subscriptions WHERE end_date IS NOT NULL
+
+    SELECT DISTINCT CAST(end_date AS DATE) AS dt
+    FROM stg_subscriptions
+    WHERE end_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(invoice_date AS DATE) AS dt FROM stg_invoices WHERE invoice_date IS NOT NULL
+
+    SELECT DISTINCT CAST(invoice_date AS DATE) AS dt
+    FROM stg_invoices
+    WHERE invoice_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(due_date AS DATE) AS dt FROM stg_invoices WHERE due_date IS NOT NULL
+
+    SELECT DISTINCT CAST(due_date AS DATE) AS dt
+    FROM stg_invoices
+    WHERE due_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(txn_date AS DATE) AS dt FROM stg_gl WHERE txn_date IS NOT NULL
+
+    SELECT DISTINCT CAST(txn_date AS DATE) AS dt
+    FROM stg_gl
+    WHERE txn_date IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(period AS DATE) AS dt FROM stg_sales_marketing WHERE period IS NOT NULL
+
+    SELECT DISTINCT CAST(period AS DATE) AS dt
+    FROM stg_sales_marketing
+    WHERE period IS NOT NULL
+
     UNION
-    SELECT DISTINCT CAST(period AS DATE) AS dt FROM stg_cash WHERE period IS NOT NULL
+
+    SELECT DISTINCT CAST(period AS DATE) AS dt
+    FROM stg_cash
+    WHERE period IS NOT NULL
 )
 SELECT
     dt AS date_key,
@@ -75,6 +105,7 @@ ORDER BY month_start;
 
 -- -----------------------------------
 -- Dimension: Customer
+-- One row per customer_id
 -- -----------------------------------
 CREATE TABLE dim_customer AS
 SELECT
@@ -93,7 +124,7 @@ FROM stg_customers;
 
 -- -----------------------------------
 -- Dimension: Plan
--- One row per plan
+-- One row per plan_name
 -- -----------------------------------
 CREATE TABLE dim_plan AS
 SELECT DISTINCT
@@ -104,15 +135,16 @@ WHERE plan_name IS NOT NULL;
 
 -- -----------------------------------
 -- Dimension: Account
--- One row per account code
+-- One row per account_code
 -- -----------------------------------
 CREATE TABLE dim_account AS
-SELECT DISTINCT
+SELECT
     account_code,
-    account_name,
-    account_category
+    MIN(account_name) AS account_name,
+    MIN(account_category) AS account_category
 FROM stg_gl
-WHERE account_code IS NOT NULL;
+WHERE account_code IS NOT NULL
+GROUP BY account_code;
 
 
 -- -----------------------------------
