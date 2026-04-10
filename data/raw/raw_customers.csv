@@ -1,0 +1,323 @@
+customer_id,customer_name,industry,region,country,signup_date,acquisition_channel,account_status,plan_name,billing_frequency
+CUST0001,Harmon-Ramirez,Education,apac,Australia,2024-08-17,paid search,active,Basic,monthly
+CUST0002,Kaufman-Harris,SaaS,EMEA,Germany,2024-06-05,Outbound,Active,Basic,Monthly
+CUST0003,Simpson-Norton,,apac,Singapore,2024-08-12,Outbound,Churned,Basic,Annual
+CUST0004,Hunter Ltd,,APAC,Singapore,2025-11-16,Paid Search,Active,Growth,Monthly
+CUST0005,Orozco PLC,Manufacturing,north america,USA,2025-12-13,REFERRAL,Active,Growth,Annual
+CUST0006,Ellis Ltd,Healthcare,apac,Australia,2025-06-28,REFERRAL,ACTIVE,enterprise ,monthly
+CUST0007,Christensen LLC  ,Fintech,North America,Canada,2025-12-14,REFERRAL,Active,Growth,Monthly
+CUST0008,Mitchell-Bell,Healthcare,EMEA,Netherlands,2024-11-17,Organic,Active,Enterprise,Monthly
+CUST0009,adkins-rice,Retail,apac,,2026-03-07,REFERRAL,Active,Pro,monthly
+CUST0010,Drake Group,Education,North America,USA,2024-10-20,paid search,Active,Growth,monthly
+CUST0011,Martinez-Evans,,north america,Canada,2026-03-02,paid search,Churned,Growth,Monthly
+CUST0012,Estrada-Jackson  ,Education,North America,Canada,2026-03-08,REFERRAL,Paused,Growth,monthly
+CUST0013,Mccoy Ltd,SaaS,North America,USA,2024-11-01,Paid Search,,Growth,annual
+CUST0014,Lozano Inc  ,,APAC,India,2026-04-03,Partner,Active,Basic,annual
+CUST0015,Saunders-Cannon  ,Manufacturing,APAC,Australia,2025-06-26,Outbound,active,Pro,Annual
+CUST0016,"Garrison, Boyd and Williams",Retail,NA,USA,2025-05-07,Organic,active,Growth,Monthly
+CUST0017,Simmons-Kramer,Retail,apac,India,2024-05-18,Referral,active,Enterprise,Monthly
+CUST0018,Holland-Gillespie,Healthcare,NA,Canada,2025-06-25,paid search,ACTIVE,Growth,Monthly
+CUST0019,Stanley and Sons,Fintech,APAC,India,2025-02-11,Organic,,,annual
+CUST0020,Burgess Group,Fintech,APAC,Australia,2025-06-11,paid search,ACTIVE,Basic,Monthly
+CUST0021,Armstrong and Sons,SaaS,APAC,Australia,2024-06-21,Partner,Churned,Growth,annual
+CUST0022 ,Young Inc,Education,North America,USA,2025-04-25,Partner,,Basic,annual
+CUST0023,Reyes LLC,Manufacturing,EMEA,Netherlands,2025-04-10,Paid Search,Active,Growth,Monthly
+CUST0024,Butler Ltd,,APAC,India,2024-09-01,Partner,Paused,Basic,Annual
+CUST0025 ,Parsons Group  ,Fintech,emea,Germany,2024-09-23,Paid Search,Active,Basic,Annual
+CUST0026,Davis-Washington,Retail,apac,,2025-01-26,Outbound,,Growth,Monthly
+CUST0027,Ward-Newman,Education,emea,UK,2025-05-17,Partner,Active,Growth,monthly
+CUST0028,Russell Inc,Education,apac,India,2024-05-27,REFERRAL,Active,Growth,Monthly
+CUST0029,Robinson and Sons,Manufacturing,APAC,Singapore,2024-09-20,Paid Search,Active,Pro,monthly
+CUST0030,"Henderson, Graham and Turner  ",Healthcare,emea,,2025-02-15,Referral,Active,Basic,Monthly
+CUST0031,grant-hall,Retail,North America,USA,2025-04-17,Referral,ACTIVE ,Growth,Monthly
+CUST0032,Ray-Smith,SaaS,apac,Singapore,2024-08-05,Outbound, paused ,Basic,Annual
+CUST0033,koch inc  ,Fintech,North America,USA,2026-03-01,Referral,Active,Enterprise,Monthly
+CUST0034,Watson-Cochran,Healthcare,north america,USA,2026-03-14,Outbound,Active,Pro,Monthly
+CUST0035,Lee PLC,Manufacturing,North America,USA,2025-07-28,REFERRAL,Churned,Pro,annual
+CUST0036,Bryan and Sons,SaaS,North America,Canada,2024-10-02,Partner,active,Basic,annual
+CUST0037,Rodriguez-Anderson  ,Healthcare,apac,Singapore,2025-07-01,REFERRAL,Churned,Pro,Annual
+CUST0038,Pugh-Spencer  ,Fintech,apac,Australia,2025-10-08,Paid Search,,Enterprise,annual
+CUST0039,"Wilson, Foster and Robinson",Education,North America,Canada,2025-12-22,Referral,Active,Pro,Monthly
+CUST0040,Smith-Choi,Manufacturing,EMEA,UK,2024-04-17,Partner,ACTIVE,Enterprise,annual
+CUST0041,"Parsons, Tate and Walker  ",SaaS,NA,Canada,2025-03-09,Organic,Active,Basic,Annual
+CUST0042 ,Thompson Inc  ,Education,North America,Canada,2024-10-19,Outbound,,Enterprise,Monthly
+CUST0043,Thomas Ltd,Manufacturing,NA,Canada,2025-02-12,Partner,active,enterprise ,Annual
+CUST0044 ,Hunter-Johnson,SaaS,APAC,Australia,2024-06-05,REFERRAL,Churned,Basic,Monthly
+CUST0045,Mills PLC,Education,North America,Canada,2025-04-19,paid search,Active,Pro,monthly
+CUST0046,"Rush, Sloan and Shaw",,emea,UK,2024-10-24,Organic,ACTIVE,Basic,Monthly
+CUST0047,Graham-Jones,Manufacturing,north america,Canada,2024-11-01,Referral,Active,Growth,Monthly
+CUST0048,Jones-Hardin,SaaS,north america,Canada,2024-06-29,REFERRAL,Active,Basic,Annual
+CUST0049,"Cunningham, Lyons and Lee",Manufacturing,north america,USA,2025-08-19,REFERRAL,active,,monthly
+CUST0050,meyers ltd  ,Retail,apac,Australia,2025-06-16,Partner,Active,Pro,monthly
+CUST0051,Hall-Vasquez,Healthcare,EMEA,UK,2024-11-04,Organic,Churned,Growth,monthly
+CUST0052,Lowe and Sons,,emea,Germany,2024-11-02,paid search,Active,Pro,Monthly
+CUST0053 ,Reynolds PLC,Education,EMEA,UK,2024-05-02,paid search,active,Enterprise,Annual
+CUST0054 ,Schmitt Ltd,SaaS,North America,Canada,2025-08-03,paid search,Active,Growth,Monthly
+CUST0055,Morris-Russell,Manufacturing,emea,UK,2025-05-04,paid search,ACTIVE,Basic,monthly
+CUST0056,Sanchez Inc,Education,emea,Germany,2025-07-09,Partner,ACTIVE,Basic,Monthly
+CUST0057,"Garcia, Jenkins and Bautista",SaaS,North America,Canada,2025-07-20,Paid Search,Active,Growth,Monthly
+CUST0058,Contreras-Stafford,SaaS,emea,Germany,2025-01-08,Paid Search,active,Basic,Annual
+CUST0059,Fox-Miller,Manufacturing,NA,Canada,2025-06-04,REFERRAL,Active,Growth,annual
+CUST0060,Miller-Montgomery,Fintech,North America,Canada,2024-11-22,Organic,ACTIVE,Basic,Monthly
+CUST0061,"Powell, Nolan and Smith",Retail,APAC,India,2024-08-21,Organic,active,Pro,monthly
+CUST0062,Wallace-Lynch,Fintech,EMEA,Netherlands,2024-05-18,Paid Search,Active,Pro,monthly
+CUST0063,anderson-guerrero  ,,north america,USA,2025-01-03,paid search,Active,Basic,monthly
+CUST0064,"Jimenez, Jones and Walker",SaaS,emea,Germany,2026-02-20,Referral, paused ,Pro,Monthly
+CUST0065,Garrett Ltd,Healthcare,North America,Canada,2025-12-23,Paid Search,Active,Basic,Monthly
+CUST0066,"Shaw, Hansen and Davis",,apac,Singapore,2024-07-08,Partner,active,Enterprise,Annual
+CUST0067,Nichols-Smith,Manufacturing,APAC,Singapore,2024-04-22,paid search,ACTIVE,Growth,monthly
+CUST0068,Farrell-White,Manufacturing,emea,UK,2025-12-15,Outbound,Active,Pro,Monthly
+CUST0069,Mack Group,Fintech,EMEA,Netherlands,2024-09-10,Partner,Active,Pro,Monthly
+CUST0070,Stewart Inc,Education,NA,USA,2025-04-15,Organic,Churned,,Annual
+CUST0071,Lozano-Moore,Healthcare,EMEA,Netherlands,2026-02-18,Partner,ACTIVE,Enterprise,Annual
+CUST0072,Daniel-Zimmerman,SaaS,North America,USA,2025-05-25,REFERRAL,Active,Enterprise,Monthly
+CUST0073,Shelton LLC,Fintech,North America,Canada,2025-09-28,Partner,Active,Growth,monthly
+CUST0074,"Stone, Smith and Moore",SaaS,North America,USA,2024-04-30,paid search,Active,Basic,Annual
+CUST0075,Carney Inc,SaaS,north america,Canada,2025-05-01,paid search,Churned,Growth,annual
+CUST0076,Robertson-Brewer  ,Retail,NA,USA,2025-01-30,Paid Search,Active,Enterprise,Monthly
+CUST0077,Mejia and Sons,Retail,EMEA,UK,2025-12-27,Outbound,Active,Growth,Annual
+CUST0078,Randolph-Smith,Manufacturing,apac,Singapore,2024-07-18,Partner,active,Enterprise,Monthly
+CUST0079,Wright Group,Manufacturing,apac,Singapore,2025-12-12,Paid Search,active,,annual
+CUST0080,"Jackson, Thornton and James",,apac,Australia,2025-04-29,REFERRAL,Active,Basic,Monthly
+CUST0081,Cooper and Sons,Healthcare,apac,India,2024-10-19,Organic,Churned,Basic,Annual
+CUST0082,"Brown, Harrison and Bell",SaaS,NA,USA,2024-07-04,Partner,Churned,Growth,Monthly
+CUST0083,Strong Ltd,SaaS,north america,USA,2024-05-05,Organic,ACTIVE,Enterprise,monthly
+CUST0084,Abbott-Potts,Education,EMEA,Netherlands,2025-08-22,Referral,Active,Basic,Monthly
+CUST0085,Ramirez-Dalton,Retail,emea,Germany,2025-11-29,Partner,Active,Growth,Monthly
+CUST0086,"White, Herrera and Williams",SaaS,North America,Canada,2026-01-26,Partner,Churned,Growth,Annual
+CUST0087 ,Cook Group,SaaS,NA,Canada,2025-12-15,Paid Search,Active,Growth,Annual
+CUST0088,"Johnson, Harris and Phillips  ",Fintech,NA,Canada,2024-09-05,Paid Search,,Basic,Monthly
+CUST0089,Scott-Schultz,Manufacturing,North America,Canada,2025-12-10,Outbound,ACTIVE,Basic,annual
+CUST0090,Walker Inc,Retail,north america,Canada,2025-01-04,REFERRAL,ACTIVE,Enterprise,Monthly
+CUST0091,"Hernandez, Craig and Garcia",SaaS,north america,Canada,2026-02-25,Outbound,Paused,Enterprise,Annual
+CUST0092,"Howell, Dyer and Curtis  ",Education,north america,Canada,2024-09-22,Organic,ACTIVE,Pro,Monthly
+CUST0093,Hernandez-Mcdonald  ,Fintech,north america,USA,,Referral,Paused,Basic,Monthly
+CUST0094,Alvarado LLC,,emea,Germany,2024-04-12,Organic,Paused,Growth,Annual
+CUST0095 ,"Maldonado, Marquez and Wheeler",,APAC,Singapore,2025-03-04,Outbound,active,Enterprise,monthly
+CUST0096,"Stone, Lam and Brandt",Retail,emea,UK,2025-06-01,Partner,,Basic,Annual
+CUST0097 ,Roth PLC  ,Retail,emea,Netherlands,2026-03-17,Referral,Active,Basic,monthly
+CUST0098,Taylor-Palmer,SaaS,apac,Australia,2024-10-01,paid search,active,Growth,Annual
+CUST0099,"Robbins, Reyes and Duran",Education,emea,Netherlands,2024-09-23,Outbound,Paused,Basic,monthly
+CUST0100,Hunt PLC,Retail,apac,Australia,2024-08-25,Referral,Churned,Growth,Monthly
+CUST0101,Petty-Gutierrez,Fintech,emea,UK,2024-04-17,Partner,active,Basic,monthly
+CUST0102,"Smith, Ortiz and Thompson",Fintech,EMEA,UK,2026-03-11,Partner,Active,Basic,Monthly
+CUST0103 ,"Simmons, Day and Scott",Retail,North America,Canada,2024-10-19,REFERRAL,ACTIVE,Enterprise,Monthly
+CUST0104,"jones, dunn and moore",Manufacturing,emea,Germany,,Organic,Active,Growth,Annual
+CUST0105,"ramos, murphy and alexander",SaaS,apac,India,2025-12-04,paid search, paused ,Enterprise,Monthly
+CUST0106,Howard-Bates,Education,north america,USA,2024-09-12,Organic,,Basic,monthly
+CUST0107,Levy Group,SaaS,apac,India,2024-08-17,Referral,Active,Basic,Monthly
+CUST0108,Anderson-Rojas,Education,north america,Canada,2024-08-26,Outbound,Active,Pro,monthly
+CUST0109 ,"Lewis, Wilcox and Miller",SaaS,North America,Canada,2026-02-09,Outbound,Paused,enterprise ,Monthly
+CUST0110 ,Steele-Drake,Education,EMEA,Germany,2024-08-01,Outbound,Active,Basic,Monthly
+CUST0111,"Edwards, Butler and Adams",SaaS,EMEA,Germany,2024-12-04,Referral,active,Growth,Monthly
+CUST0112,"Johns, Chavez and Pierce",Fintech,NA,USA,2024-04-24,paid search,Active,Growth,Monthly
+CUST0113,jones-lee,Healthcare,NA,USA,2025-07-02,Paid Search,Active,Pro,Monthly
+CUST0114,"Parsons, Rice and Sanchez  ",,north america,Canada,2024-08-05,REFERRAL,Active,Basic,Monthly
+CUST0115,Cruz-Willis,SaaS,apac,Australia,2025-09-26,Paid Search,Paused,enterprise ,Monthly
+CUST0116,Lambert Group,,EMEA,Germany,2024-12-15,Paid Search,active,Growth,Annual
+CUST0117,Thomas-Ellis,Education,north america,USA,2026-01-11,REFERRAL,Churned,Growth,monthly
+CUST0118,"Berry, Bishop and Phillips",Fintech,EMEA,Germany,2024-10-30,REFERRAL,Active,Basic,monthly
+CUST0119,Escobar Group,Healthcare,apac,Australia,2025-05-16,Partner,ACTIVE,Enterprise,monthly
+CUST0120,Hutchinson-Thomas,Fintech,EMEA,Germany,2024-04-24,Partner,Paused,Pro,Annual
+CUST0121,Garza-Booth,Retail,emea,Netherlands,2024-08-30,Referral,Churned,Basic,monthly
+CUST0122,Smith-Fuentes,SaaS,APAC,Australia,2025-11-22,Referral,Active,Growth,Annual
+CUST0123,Parker Ltd,Healthcare,EMEA,UK,2025-03-14,Outbound,Paused,Basic,Monthly
+CUST0124,Stout PLC,SaaS,EMEA,UK,2024-05-21,Outbound,Active,Basic,Monthly
+CUST0125 ,Harper Inc,,APAC,India,2024-10-17,Partner,Active,Basic,Monthly
+CUST0126,hawkins llc,Retail,North America,Canada,2024-08-16,REFERRAL,,Basic,Monthly
+CUST0127,Levy LLC,Retail,apac,Singapore,2026-01-25,Referral,Active,Basic,Monthly
+CUST0128,"Woodward, Smith and Holder",SaaS,emea,Netherlands,2024-05-23,Organic,Paused,Basic,monthly
+CUST0129,"Jones, Parker and Reed",Manufacturing,North America,USA,2025-03-04,paid search, paused ,Enterprise,Annual
+CUST0130,"Martinez, Mccarthy and Frye",Manufacturing,North America,Canada,2025-04-25,paid search,Active,enterprise ,monthly
+CUST0131,"Bond, Bell and Williamson",SaaS,emea,UK,2025-06-21,Referral,Active,Growth,monthly
+CUST0132,Leach PLC  ,Manufacturing,emea,UK,2026-01-30,Partner,Churned,Growth,Annual
+CUST0133,Salas Inc  ,Healthcare,north america,USA,2025-07-03,paid search,Active,Enterprise,monthly
+CUST0134,"nelson, martinez and johnston",Healthcare,EMEA,Netherlands,2025-11-04,Referral,Churned,Growth,monthly
+CUST0135,"Anderson, James and Harvey",Retail,NA,USA,2025-12-23,Organic,active,Basic,Annual
+CUST0136,"Jenkins, Mendoza and Roach",SaaS,north america,Canada,2025-07-18,Outbound,Paused,Growth,Monthly
+CUST0137,huynh-arnold  ,Education,APAC,India,2025-04-24,Organic,active,Pro,Monthly
+CUST0138,Howell-Allen,Fintech,north america,Canada,2025-08-05,Organic,Active,Pro,annual
+CUST0139,Thomas-Anderson,SaaS,EMEA,Germany,2024-04-11,Partner,Active,Growth,Annual
+CUST0140,"Harris, Wallace and Wells  ",Retail,NA,USA,2025-06-07,REFERRAL,Active,Basic,Annual
+CUST0141,"Stanley, Hess and Rodgers",Healthcare,NA,Canada,2026-01-04,Partner,active,Growth,monthly
+CUST0142 ,"Washington, Velez and Mason",Education,North America,Canada,2024-11-18,Partner,Churned,Growth,Annual
+CUST0143,Jones-Palmer,Manufacturing,emea,Germany,2025-11-05,Paid Search,,Growth,monthly
+CUST0144,"Page, Trujillo and Hatfield  ",SaaS,emea,UK,2025-07-01,Partner,active,Pro,Monthly
+CUST0145,Rodriguez and Sons,Education,emea,Netherlands,2025-11-16,REFERRAL,,Growth,Monthly
+CUST0146,Long-Adams,Retail,emea,Germany,2025-11-23,Partner,Active,Basic,Monthly
+CUST0147,Mills PLC,Healthcare,APAC,India,2024-09-11,Paid Search,Active,Enterprise,monthly
+CUST0148,Perez Inc  ,,emea,Netherlands,2025-01-28,Paid Search,ACTIVE,Pro,Annual
+CUST0149,"Best, Moreno and Flores",Manufacturing,APAC,Singapore,2025-10-05,Outbound,Active,Pro,monthly
+CUST0150,Martinez LLC  ,Healthcare,North America,USA,2025-09-21,Outbound,Active,Basic,Monthly
+CUST0151,Wilson-Russo  ,,APAC,Singapore,2025-02-27,Paid Search,Active,Basic,monthly
+CUST0152 ,"Brooks, Williams and Anderson",Healthcare,APAC,India,2024-10-13,Outbound,Active,Pro,Annual
+CUST0153,Morrison Inc,Retail,EMEA,Netherlands,2025-06-07,paid search,Active,Basic,Monthly
+CUST0154,Davis Ltd,Manufacturing,NA,Canada,,REFERRAL,Active,Growth,Annual
+CUST0155,Hansen Group,Education,apac,Singapore,2024-07-03,Partner,Active,Basic,Annual
+CUST0156,Ray PLC  ,Retail,NA,Canada,2025-04-03,Outbound,Active,Growth,Monthly
+CUST0157,Koch LLC,Education,north america,Canada,2026-03-04,Outbound,Active,enterprise ,Monthly
+CUST0158,"Sanchez, Ford and Small",Education,EMEA,Netherlands,2025-07-07,Organic,Churned,Growth,Monthly
+CUST0159,pratt-brown  ,Retail,emea,UK,2025-02-27,Outbound,ACTIVE,Pro,monthly
+CUST0160,Campbell and Sons,Manufacturing,apac,India,2024-05-14,Organic,Active,Basic,Monthly
+CUST0161,Jackson and Sons,Retail,North America,Canada,2024-07-27,Paid Search,Active,Growth,Monthly
+CUST0162,"Yates, Brown and Fuller",Fintech,EMEA,Netherlands,2025-09-29,Paid Search,active,enterprise ,Annual
+CUST0163,"Carter, Barker and Rodgers",Fintech,North America,USA,2025-12-14,Partner,active,Growth,Monthly
+CUST0164,"Bailey, Potter and Russell",Manufacturing,APAC,India,2024-10-30,Outbound,active,Enterprise,Monthly
+CUST0165,"Wallace, Smith and Nguyen",Fintech,APAC,Singapore,2024-11-09,REFERRAL,Active,enterprise ,annual
+CUST0166,Moore-Vance,,emea,Germany,2025-08-15,Referral,active,Growth,Annual
+CUST0167,Meza Inc,Retail,north america,USA,2025-10-27,Referral,ACTIVE,Basic,Monthly
+CUST0168,george-higgins,Manufacturing,apac,India,,Organic,ACTIVE,Basic,Monthly
+CUST0169,"Warner, Wright and Davis",Education,North America,USA,2024-10-11,paid search,Active,Growth,Monthly
+CUST0170,"Jones, Matthews and Thomas",Healthcare,emea,Germany,2026-04-02,Referral,Active,Growth,monthly
+CUST0171,"Schneider, Spence and Freeman",Healthcare,emea,Germany,2025-05-25,Partner,active,Growth,Annual
+CUST0172,Adams Group,SaaS,emea,Germany,2024-10-11,Outbound,Paused,enterprise ,Monthly
+CUST0173,Davidson Inc,,EMEA,Netherlands,2025-04-02,paid search,Active,Pro,monthly
+CUST0174,"Davis, Lindsey and Miller",Manufacturing,apac,Australia,2025-04-04,Organic,active,enterprise ,Monthly
+CUST0175,Perez Group,Education,NA,Canada,2024-11-12,paid search,Active,Basic,monthly
+CUST0176,gomez-boone  ,Healthcare,APAC,India,2025-03-14,Organic,ACTIVE,Enterprise,annual
+CUST0177,Ford Inc,Manufacturing,APAC,Singapore,2024-11-09,paid search,Active,Growth,Monthly
+CUST0178,Malone Inc,,emea,Netherlands,2024-07-11,Partner,Active,Basic,annual
+CUST0179,Sanders-Olsen,Education,apac,India,2024-05-16,Organic,ACTIVE,Growth,monthly
+CUST0180,Hughes and Sons,,North America,Canada,2026-03-05,Referral,Active,Growth,Monthly
+CUST0181,Williams-White,Retail,EMEA,Germany,2025-10-22,Organic,active,Growth,monthly
+CUST0182,Rodriguez-Mayo  ,Retail,north america,USA,2024-08-03,Organic,active,Growth,monthly
+CUST0183,Williams-Chase,Manufacturing,apac,Australia,2025-03-02,Referral,ACTIVE,Basic,Monthly
+CUST0184,David-Huff,Healthcare,north america,USA,2024-09-19,REFERRAL,Active,Pro,Monthly
+CUST0185,"Mcpherson, Steele and Hernandez",Healthcare,north america,Canada,2025-04-16,Organic,Active,Pro,annual
+CUST0186,"Fields, Johnson and Smith",Retail,APAC,Singapore,2026-04-01,Outbound,ACTIVE,Basic,monthly
+CUST0187,Moyer LLC,,emea,Netherlands,2025-06-28,REFERRAL,,Growth,monthly
+CUST0188,Madden-Bowers,Fintech,APAC,Australia,2026-03-30,Paid Search,,Growth,annual
+CUST0189,Shepherd-Smith,SaaS,APAC,Australia,2024-11-08,Outbound,Active,enterprise ,Monthly
+CUST0190,Gonzales Group,Education,north america,USA,2024-04-19,Partner,Active,Pro,Monthly
+CUST0191,"Ramirez, Mcclain and Garcia",Fintech,north america,,2025-04-26,Paid Search,Active,Pro,Annual
+CUST0192,"Hines, Dunn and Smith",Healthcare,EMEA,Netherlands,2024-11-28,REFERRAL,Active,Basic,monthly
+CUST0193,Larsen-Mann,Education,NA,Canada,2024-08-18,paid search, paused ,Growth,monthly
+CUST0194,Johnson-Stewart,Manufacturing,apac,India,2026-03-26,Organic,Churned,Basic,Monthly
+CUST0195,"Jones, White and Young",Healthcare,APAC,,2024-11-28,REFERRAL,ACTIVE,enterprise ,Monthly
+CUST0196 ,Oneill Group,SaaS,EMEA,Netherlands,,Outbound,Churned,Growth,Annual
+CUST0197,Estrada Ltd  ,SaaS,NA,Canada,2025-06-17,REFERRAL,ACTIVE,Growth,Monthly
+CUST0198,Barker and Sons,Education,emea,Germany,2025-10-19,Outbound,active,Pro,Monthly
+CUST0199,"Price, Fox and Mitchell",,emea,UK,2025-01-10,paid search,Paused,Enterprise,monthly
+CUST0200,Velazquez Group,Healthcare,North America,Canada,2024-11-05,Outbound,active,Enterprise,Monthly
+CUST0201,Hunter Ltd,Manufacturing,emea,Netherlands,,Referral,active,Pro,annual
+CUST0202,Weeks-Palmer,Fintech,north america,Canada,2025-02-04,Organic,,Basic,Monthly
+CUST0203,Avila Group  ,SaaS,APAC,Australia,2026-03-02,paid search,Active,Basic,Monthly
+CUST0204,Wilson Ltd,Education,North America,USA,2025-02-08,Partner,Active,Basic,Annual
+CUST0205,"Martinez, Thomas and Romero",SaaS,APAC,Australia,2025-09-13,Paid Search,Churned,Growth,Monthly
+CUST0206,Miller-Oliver  ,Healthcare,North America,Canada,2025-07-05,Paid Search,Paused,Basic,monthly
+CUST0207,Calderon-Miller,Retail,apac,Australia,2025-02-28,paid search,Active,Basic,Monthly
+CUST0208 ,"Miller, Nelson and Perkins  ",Manufacturing,APAC,Australia,,paid search,ACTIVE,Growth,monthly
+CUST0209,"Brown, Castaneda and Jimenez",SaaS,NA,Canada,2025-12-27,Partner, paused ,Basic,Monthly
+CUST0210,Blackburn Group,Healthcare,NA,Canada,2024-05-27,REFERRAL,ACTIVE,Basic,Monthly
+CUST0211,Watson LLC,Healthcare,north america,Canada,2024-11-24,REFERRAL,ACTIVE,Growth,monthly
+CUST0212,"Martinez, Hill and Miller  ",Manufacturing,emea,Germany,2024-06-23,Outbound,Active,Pro,Annual
+CUST0213,Thomas and Sons,Education,APAC,Australia,2024-10-30,paid search,,Basic,Monthly
+CUST0214,Mcconnell LLC,Education,NA,USA,2024-08-30,REFERRAL,Active,Growth,Monthly
+CUST0215,simmons-baker,Manufacturing,north america,USA,2025-01-10,Organic,active,Growth,Monthly
+CUST0216,Smith-Gonzalez,Education,emea,Germany,2025-02-12,Outbound,Active,Basic,monthly
+CUST0217,Harris-Rosales,Education,EMEA,Netherlands,2024-06-18,paid search,,Basic,Annual
+CUST0218,Marshall-Peterson,Fintech,north america,Canada,2025-07-06,Referral,Active,Basic,Monthly
+CUST0219 ,Taylor-Price,Manufacturing,APAC,Australia,2025-04-05,Outbound,Active,Pro,Annual
+CUST0220,Townsend-Gonzalez,SaaS,APAC,India,2025-12-21,Referral,active,Growth,Annual
+CUST0221,Richardson-Baldwin,Healthcare,north america,,2024-08-11,Organic,active,Pro,monthly
+CUST0222 ,"Torres, Gardner and Rios",Manufacturing,NA,Canada,2026-03-01,paid search,active,Enterprise,Monthly
+CUST0223 ,Jordan-Ward,Fintech,APAC,Australia,2024-08-03,REFERRAL,Active,,monthly
+CUST0224,Brown-Brady  ,SaaS,NA,Canada,2024-07-23,Paid Search,Active,Growth,Annual
+CUST0225,"Johnston, Blevins and Rich  ",Manufacturing,apac,Australia,2024-06-13,Paid Search,ACTIVE,,Monthly
+CUST0226,"Keith, Robinson and Mendez",Retail,NA,Canada,2026-01-17,REFERRAL,Active,Enterprise,monthly
+CUST0227,taylor inc,,north america,Canada,2025-12-12,Referral,Active,Growth,Monthly
+CUST0228,"Williams, Simmons and Brown",Healthcare,NA,Canada,2025-11-07,Paid Search,Active,Growth,monthly
+CUST0229,Johnson-Watson,Retail,EMEA,Germany,2026-02-20,Paid Search,active,Pro,monthly
+CUST0230 ,"Lee, Thomas and Trevino  ",Manufacturing,north america,Canada,2025-05-14,Paid Search,Active,Basic,monthly
+CUST0231,Rojas-Wright,Retail,APAC,Australia,2025-11-13,REFERRAL, paused ,Enterprise,Monthly
+CUST0232,valencia-shelton  ,Healthcare,NA,Canada,2024-09-28,Paid Search,active,Growth,annual
+CUST0233,Beasley-Hodge  ,SaaS,emea,UK,2024-09-09,Outbound,Active,Enterprise,Monthly
+CUST0234,"Gomez, Carpenter and Flynn",Fintech,North America,Canada,2024-11-03,Organic,Paused,Growth,Monthly
+CUST0235,Lee-Bryan,Healthcare,emea,UK,2025-03-27,Paid Search,Active,Growth,monthly
+CUST0236,"Morgan, Brown and Baldwin",Education,apac,Singapore,2024-09-26,Organic,Active,Pro,annual
+CUST0237,Cox Ltd,SaaS,APAC,Singapore,2025-12-16,Organic,ACTIVE,Growth,Monthly
+CUST0238,golden-sloan,SaaS,APAC,Australia,2026-01-03,REFERRAL,ACTIVE,Enterprise,Monthly
+CUST0239,Willis-Garcia,,EMEA,,2025-10-29,Organic,Active,Enterprise,Annual
+CUST0240,Morrow-Freeman,SaaS,apac,Australia,2024-08-31,REFERRAL,Active,Growth,Monthly
+CUST0241,Welch PLC,Healthcare,emea,Germany,2025-12-07,Paid Search,ACTIVE,Basic,monthly
+CUST0242,"Harris, Adkins and Wells",Retail,apac,Australia,2025-09-28,Paid Search,active,Growth,monthly
+CUST0243,Perez-Bell,SaaS,NA,Canada,2025-06-16,paid search,active,Basic,annual
+CUST0244,Morgan LLC  ,Manufacturing,apac,India,2026-03-01,Paid Search,Active,Pro,Monthly
+CUST0245,Smith-Vega,Education,emea,Germany,2026-03-14,paid search,Active,Pro,Monthly
+CUST0246,"Mitchell, Williams and Mata",Manufacturing,EMEA,UK,2024-07-05,Outbound,,Basic,monthly
+CUST0247,"Wolfe, Schneider and Yoder",Retail,NA,USA,2025-10-07,Partner,Churned,Growth,Monthly
+CUST0248,Wallace and Sons,Manufacturing,emea,Germany,2024-08-05,Organic,,Pro,Monthly
+CUST0249,Brown PLC,Healthcare,North America,Canada,2024-11-20,Partner,Paused,enterprise ,monthly
+CUST0250,"Williamson, Cantrell and Ford",Healthcare,north america,USA,2025-08-09,Organic,ACTIVE,Basic,Annual
+CUST0251,Austin PLC,Manufacturing,apac,India,2026-01-21,Partner,active,enterprise ,Annual
+CUST0252,"Butler, Paul and Bennett",Retail,North America,USA,2025-01-11,Paid Search,active,enterprise ,Monthly
+CUST0253,Aguilar Inc,Fintech,North America,Canada,2025-07-26,Outbound,Active,Basic,annual
+CUST0254,Oneill-Steele,Retail,NA,Canada,2025-12-07,Referral, paused ,Growth,monthly
+CUST0255,"coffey, payne and garcia  ",Education,North America,USA,2024-12-28,Partner,Active,Growth,monthly
+CUST0256 ,Bailey-Williams,Healthcare,emea,Germany,2025-06-10,paid search,Paused,Pro,Monthly
+CUST0257,"Ross, Hopkins and Fox",Education,North America,Canada,2025-01-07,Partner,Active,Growth,Monthly
+CUST0258,Newman Inc,Education,EMEA,Germany,2025-12-30,paid search,Churned,Pro,Annual
+CUST0259,Montes LLC,Fintech,NA,Canada,2024-11-20,Partner,ACTIVE,Pro,annual
+CUST0260,West and Sons,Fintech,APAC,Australia,2025-09-20,Organic,Churned,Basic,Annual
+CUST0261,Little Group,,NA,USA,2025-05-22,paid search,Active,enterprise ,Monthly
+CUST0262,"Reeves, Long and Taylor",SaaS,north america,Canada,2025-12-12,REFERRAL,Active,Basic,Monthly
+CUST0263,baxter-porter,Fintech,North America,,2024-09-10,paid search,Churned,Growth,Annual
+CUST0264,"Cross, Martin and Underwood",Manufacturing,apac,India,2026-04-06,paid search,active,Growth,monthly
+CUST0265,Tanner and Sons,SaaS,EMEA,Netherlands,2024-10-13,REFERRAL,active,Enterprise,monthly
+CUST0266,vaughn group,Education,apac,India,2025-06-20,Organic,Active,Pro,Monthly
+CUST0267,Holden-Bird  ,Fintech,EMEA,Germany,2024-10-26,Outbound,Active,Growth,Monthly
+CUST0268,Martinez LLC,Retail,EMEA,Germany,2024-04-28,Paid Search,ACTIVE,Pro,Monthly
+CUST0269,Craig LLC,SaaS,north america,Canada,2025-09-09,Partner,,Basic,Annual
+CUST0270,Miller PLC,Fintech,north america,Canada,2025-02-16,Partner,active,Pro,Annual
+CUST0271,Johnson-Chapman  ,Retail,EMEA,Netherlands,2025-09-07,paid search,Active,Pro,Annual
+CUST0272,"Smith, Evans and Gross  ",Manufacturing,EMEA,Netherlands,,paid search, paused ,Growth,monthly
+CUST0273,Paul-King,Retail,APAC,Australia,2025-04-12,Paid Search,Churned,Basic,Annual
+CUST0274,"Fisher, Chambers and Martin  ",Healthcare,APAC,Singapore,2025-03-12,Partner,Churned,Basic,Monthly
+CUST0275,Jones Group,SaaS,north america,Canada,2025-06-29,Outbound,active,,Annual
+CUST0276,Clayton-Jackson  ,Retail,apac,Australia,2026-03-28,paid search,Active,Basic,Monthly
+CUST0277,Martinez-Rodgers,SaaS,north america,USA,2025-05-03,Partner, paused ,Pro,monthly
+CUST0278,Sanders and Sons,Retail,North America,Canada,2024-09-22,Referral,Active,Basic,monthly
+CUST0279,"Cruz, King and Chen  ",,NA,USA,2025-12-16,Organic,active,Pro,Annual
+CUST0280,Johnson-Johnson  ,Retail,APAC,India,2025-07-04,Referral, paused ,Basic,Annual
+CUST0281,"Manning, Hughes and Smith",Education,emea,,2024-11-02,Partner,Paused,Basic,monthly
+CUST0282,Nunez PLC,Education,apac,Australia,2024-06-09,Paid Search,Paused,Growth,Monthly
+CUST0283,"Luna, Brewer and Cortez",Retail,North America,Canada,2025-10-30,Partner,active,Basic,Monthly
+CUST0284,"Austin, Foster and Brown",Education,apac,Singapore,,Paid Search,Churned,Growth,Annual
+CUST0285,"Jordan, Mendez and Boyd",Retail,EMEA,Germany,2024-06-20,Outbound,Active,Growth,Annual
+CUST0286,"Hughes, Ellis and Vang",Fintech,north america,USA,2025-03-03,paid search,Active,Growth,Monthly
+CUST0287,"Schmitt, Roy and Jensen",Education,NA,USA,2025-05-15,Organic,Active,Growth,monthly
+CUST0288,Wolfe and Sons  ,Retail,emea,UK,2025-11-08,Organic,active,Growth,annual
+CUST0289,"Levy, Johns and Erickson",Manufacturing,NA,Canada,2024-10-11,Organic,Paused,Pro,Monthly
+CUST0290,"Perez, Chavez and Gardner",Education,APAC,Australia,,paid search,ACTIVE,Growth,Monthly
+CUST0291,Mitchell-Newton,,north america,Canada,2025-06-23,Referral,Active,Growth,Monthly
+CUST0292 ,Brown-Hogan  ,Manufacturing,emea,UK,2024-09-23,paid search, paused ,enterprise ,Monthly
+CUST0293,Parker-Ford,Healthcare,EMEA,Netherlands,2025-10-11,REFERRAL,Active,Pro,monthly
+CUST0294,Taylor-Brown,Education,EMEA,UK,2025-11-04,Partner,ACTIVE,Growth,monthly
+CUST0295,"Todd, Gardner and Moore",Healthcare,North America,Canada,2025-05-27,paid search, paused ,Enterprise,monthly
+CUST0296,Duarte and Sons,Manufacturing,north america,Canada,2025-08-02,Partner,Active,Pro,Monthly
+CUST0297,"Massey, Jones and Carpenter",Manufacturing,North America,USA,2025-02-17,Partner,Paused,Pro,Monthly
+CUST0298,Rivera-Compton,,North America,USA,2024-07-23,REFERRAL,ACTIVE,Basic,Monthly
+CUST0299 ,"Parsons, Hunter and Drake  ",Education,EMEA,Germany,2025-11-12,Outbound,Churned,Pro,Monthly
+CUST0300,Evans-Walls,Manufacturing,north america,USA,2025-04-23,Organic,Paused,Growth,monthly
+CUST0301,"Jimenez, Jarvis and Morrison",Fintech,APAC,India,2024-11-01,Referral,ACTIVE,enterprise ,Monthly
+CUST0302,Scott-Schaefer,Manufacturing,EMEA,,2024-05-03,Organic,active,Growth,monthly
+CUST0303,Stout Ltd,Healthcare,apac,India,2024-07-21,Partner, paused ,Growth,Monthly
+CUST0304,Williams-Ortiz,,emea,Netherlands,2024-08-26,Outbound,Paused,Growth,Annual
+CUST0305,"Pierce, Jones and Perez",Manufacturing,APAC,Australia,2025-08-18,Referral,active,Growth,annual
+CUST0306,Smith PLC,SaaS,apac,Australia,2024-08-06,paid search,Active,Pro,annual
+CUST0307,"Meyer, Juarez and Lewis  ",Manufacturing,North America,Canada,2025-02-24,Outbound,ACTIVE,Enterprise,Monthly
+CUST0308,"Bray, Watson and Le",Fintech,APAC,Australia,2025-01-22,Paid Search,Active,Basic,Annual
+CUST0309,Kelly-Garcia,Education,EMEA,Netherlands,2026-02-21,Organic,Active,Enterprise,monthly
+CUST0310 ,"Leon, Gutierrez and James",Healthcare,EMEA,UK,2025-08-14,Outbound,,Enterprise,Annual
+CUST0311,Robinson-Mathews,Retail,north america,USA,2024-07-24,Outbound,ACTIVE,Growth,Annual
+CUST0312,Jordan LLC  ,Education,EMEA,Netherlands,2025-12-06,REFERRAL,Active,enterprise ,Monthly
+CUST0313 ,Guerrero-Moss,,EMEA,UK,2026-02-19,REFERRAL,Active,Growth,annual
+CUST0314,Rosales Ltd,Healthcare,EMEA,Germany,2024-04-25,REFERRAL,active,Pro,Monthly
+CUST0315,Hall-Fox,Healthcare,north america,Canada,2026-02-03,REFERRAL,Active,Pro,Monthly
+CUST0316,"Brewer, Wright and Morales  ",SaaS,apac,India,2024-10-16,Partner, paused ,Growth,monthly
+CUST0317,Watkins PLC,Education,North America,Canada,2025-04-23,Partner,ACTIVE,Pro,Monthly
+CUST0318,Burke and Sons,,EMEA,Germany,2025-11-23,paid search,,Enterprise,Monthly
+CUST0319,Melton Group,Manufacturing,NA,Canada,2024-07-29,Partner,active,Growth,annual
+CUST0320,"parks, farley and bell",Education,EMEA,UK,2025-10-18,paid search,Active,Pro,Annual
+CUST0006,Ellis Ltd,Healthcare,apac,Australia,2025-06-28,REFERRAL,ACTIVE,enterprise ,monthly
+CUST0013,MCCOY LTD,SaaS,North America,USA,2024-11-01,Paid Search,,Growth,annual
