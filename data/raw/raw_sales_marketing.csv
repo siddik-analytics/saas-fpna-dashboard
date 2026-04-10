@@ -1,170 +1,170 @@
 period,channel,campaign_name,spend,leads,won_customers
-2023-01-01,Paid Search,Paid Search Campaign 2023-01,10132.59,389.0,10
-2023-01-01,LinkedIn,LinkedIn Campaign 2023-01,10549.93,231.0,38
-2023-01-01,Partner,Partner Campaign 2023-01,18716.85,68.0,32
-2023-01-01,Outbound,Outbound Campaign 2023-01,12684.01,220.0,22
-2023-01-01,Organic,Organic Campaign 2023-01,952.68,117.0,16
-2023-01-01,paid search,paid search Campaign 2023-01,17871.61,242.0,0
-2023-01-01,PARTNER,PARTNER Campaign 2023-01,5782.05,331.0,31
-2023-02-01,Paid Search,Paid Search Campaign 2023-02,25616.44,325.0,15
-2023-02-01,LinkedIn,LinkedIn Campaign 2023-02,29885.61,284.0,33
-2023-02-01,Partner,Partner Campaign 2023-02,27586.08,100.0,36
-2023-02-01,Outbound,Outbound Campaign 2023-02,28766.78,51.0,37
-2023-02-01,Organic,Organic Campaign 2023-02,1327.3,152.0,21
-2023-02-01,paid search,paid search Campaign 2023-02,8907.1,212.0,34
-2023-02-01,PARTNER,PARTNER Campaign 2023-02,14665.72,460.0,22
-2023-03-01,Paid Search,Paid Search Campaign 2023-03,26165.99,377.0,39
-2023-03-01,LinkedIn,LinkedIn Campaign 2023-03,23888.34,329.0,26
-2023-03-01,Partner,,5001.69,340.0,28
-2023-03-01,Outbound,Outbound Campaign 2023-03,6672.59,,18
-2023-03-01,Organic,Organic Campaign 2023-03,822.97,446.0,20
-2023-03-01,paid search,paid search Campaign 2023-03,10441.76,91.0,12
-2023-03-01,PARTNER,PARTNER Campaign 2023-03,6418.78,326.0,30
-2023-04-01,Paid Search,Paid Search Campaign 2023-04,18563.87,301.0,30
-2023-04-01,LinkedIn,LinkedIn Campaign 2023-04,11485.16,487.0,12
-2023-04-01,Partner,Partner Campaign 2023-04,18756.33,215.0,10
-2023-04-01,Outbound,Outbound Campaign 2023-04,9402.65,243.0,17
-2023-04-01,Organic,Organic Campaign 2023-04,2553.82,169.0,11
-2023-04-01,paid search,paid search Campaign 2023-04,17155.32,497.0,0
-2023-04-01,PARTNER,,25537.58,261.0,14
-2023-05-01,Paid Search,Paid Search Campaign 2023-05,18925.65,77.0,24
-2023-05-01,LinkedIn,LinkedIn Campaign 2023-05,-26868.79,483.0,12
-2023-05-01,Partner,Partner Campaign 2023-05,8632.43,104.0,14
-2023-05-01,Outbound,Outbound Campaign 2023-05,8585.48,61.0,8
-2023-05-01,Organic,Organic Campaign 2023-05,2360.79,417.0,16
-2023-05-01,paid search,paid search Campaign 2023-05,9104.28,343.0,26
-2023-05-01,PARTNER,PARTNER Campaign 2023-05,6279.14,144.0,18
-2023-06-01,Paid Search,Paid Search Campaign 2023-06,-18170.07,66.0,29
-2023-06-01,LinkedIn,LinkedIn Campaign 2023-06,9487.89,95.0,8
-2023-06-01,Partner,Partner Campaign 2023-06,27379.8,392.0,26
-2023-06-01,Outbound,Outbound Campaign 2023-06,20852.49,155.0,15
-2023-06-01,Organic,Organic Campaign 2023-06,923.79,468.0,24
-2023-06-01,paid search,paid search Campaign 2023-06,18838.1,72.0,24
-2023-06-01,PARTNER,PARTNER Campaign 2023-06,22006.34,133.0,8
-2023-07-01,Paid Search,Paid Search Campaign 2023-07,21223.69,445.0,31
-2023-07-01,LinkedIn,LinkedIn Campaign 2023-07,8151.79,427.0,12
-2023-07-01,Partner,Partner Campaign 2023-07,19004.82,258.0,30
-2023-07-01,Outbound,Outbound Campaign 2023-07,24854.5,475.0,13
-2023-07-01,Organic,Organic Campaign 2023-07,1145.0,319.0,21
-2023-07-01,paid search,paid search Campaign 2023-07,18252.59,120.0,38
-2023-07-01,PARTNER,PARTNER Campaign 2023-07,7367.48,97.0,20
-2023-08-01,Paid Search,Paid Search Campaign 2023-08,-22231.92,198.0,6
-2023-08-01,LinkedIn,LinkedIn Campaign 2023-08,5597.16,125.0,6
-2023-08-01,Partner,Partner Campaign 2023-08,12543.77,236.0,6
-2023-08-01,Outbound,Outbound Campaign 2023-08,13854.5,115.0,32
-2023-08-01,Organic,Organic Campaign 2023-08,439.35,128.0,13
-2023-08-01,paid search,paid search Campaign 2023-08,25799.85,176.0,0
-2023-08-01,PARTNER,PARTNER Campaign 2023-08,22113.49,174.0,28
-2023-09-01,Paid Search,Paid Search Campaign 2023-09,10031.83,281.0,0
-2023-09-01,LinkedIn,LinkedIn Campaign 2023-09,28681.89,106.0,22
-2023-09-01,Partner,Partner Campaign 2023-09,26781.71,136.0,26
-2023-09-01,Outbound,Outbound Campaign 2023-09,15400.92,395.0,27
-2023-09-01,Organic,Organic Campaign 2023-09,1406.53,402.0,19
-2023-09-01,paid search,paid search Campaign 2023-09,22111.28,239.0,25
-2023-09-01,PARTNER,PARTNER Campaign 2023-09,8525.75,233.0,20
-2023-10-01,Paid Search,Paid Search Campaign 2023-10,13669.11,309.0,0
-2023-10-01,LinkedIn,,22337.04,352.0,9
-2023-10-01,Partner,Partner Campaign 2023-10,14003.81,272.0,6
-2023-10-01,Outbound,Outbound Campaign 2023-10,10296.23,414.0,28
-2023-10-01,Organic,Organic Campaign 2023-10,2999.18,72.0,17
-2023-10-01,paid search,paid search Campaign 2023-10,20619.9,275.0,33
-2023-10-01,PARTNER,PARTNER Campaign 2023-10,-26583.93,260.0,0
-2023-11-01,Paid Search,Paid Search Campaign 2023-11,13462.33,283.0,27
-2023-11-01,LinkedIn,LinkedIn Campaign 2023-11,20259.43,154.0,12
-2023-11-01,Partner,Partner Campaign 2023-11,8035.31,221.0,36
-2023-11-01,Outbound,Outbound Campaign 2023-11,19452.42,433.0,18
-2023-11-01,Organic,Organic Campaign 2023-11,2424.53,434.0,27
-2023-11-01,paid search,paid search Campaign 2023-11,7088.09,66.0,27
-2023-11-01,PARTNER,PARTNER Campaign 2023-11,9139.89,111.0,33
-2023-12-01,Paid Search,Paid Search Campaign 2023-12,17520.52,183.0,18
-2023-12-01,LinkedIn,LinkedIn Campaign 2023-12,20891.03,120.0,10
-2023-12-01,Partner,Partner Campaign 2023-12,14741.6,382.0,0
-2023-12-01,Outbound,Outbound Campaign 2023-12,14000.48,53.0,6
-2023-12-01,Organic,Organic Campaign 2023-12,2182.46,65.0,15
-2023-12-01,paid search,paid search Campaign 2023-12,28884.18,393.0,20
-2023-12-01,PARTNER,PARTNER Campaign 2023-12,26044.85,225.0,21
-2024-01-01,Paid Search,,18140.4,237.0,39
-2024-01-01,LinkedIn,,9193.02,347.0,34
-2024-01-01,Partner,Partner Campaign 2024-01,21366.54,431.0,9
-2024-01-01,Outbound,Outbound Campaign 2024-01,27599.39,319.0,20
-2024-01-01,Organic,Organic Campaign 2024-01,2784.52,106.0,27
-2024-01-01,paid search,paid search Campaign 2024-01,25386.03,344.0,6
-2024-01-01,PARTNER,,22697.63,492.0,25
-2024-02-01,Paid Search,Paid Search Campaign 2024-02,23061.04,105.0,11
-2024-02-01,LinkedIn,LinkedIn Campaign 2024-02,24778.98,286.0,32
-2024-02-01,Partner,Partner Campaign 2024-02,23817.74,300.0,6
-2024-02-01,Outbound,Outbound Campaign 2024-02,29500.22,305.0,29
-2024-02-01,Organic,Organic Campaign 2024-02,1499.08,498.0,22
-2024-02-01,paid search,paid search Campaign 2024-02,24076.88,369.0,30
-2024-02-01,PARTNER,PARTNER Campaign 2024-02,18499.36,285.0,21
-2024-03-01,Paid Search,Paid Search Campaign 2024-03,18097.41,393.0,0
-2024-03-01,LinkedIn,LinkedIn Campaign 2024-03,26923.72,458.0,28
-2024-03-01,Partner,,20295.6,344.0,24
-2024-03-01,Outbound,Outbound Campaign 2024-03,14324.21,84.0,32
-2024-03-01,Organic,Organic Campaign 2024-03,580.23,443.0,20
-2024-03-01,paid search,paid search Campaign 2024-03,17982.98,330.0,6
-2024-03-01,PARTNER,PARTNER Campaign 2024-03,29118.65,176.0,15
-2024-04-01,Paid Search,Paid Search Campaign 2024-04,7333.2,460.0,0
-2024-04-01,LinkedIn,,14395.24,56.0,37
-2024-04-01,Partner,Partner Campaign 2024-04,10148.86,141.0,7
-2024-04-01,Outbound,Outbound Campaign 2024-04,9163.71,406.0,32
-2024-04-01,Organic,Organic Campaign 2024-04,2863.47,226.0,13
-2024-04-01,paid search,paid search Campaign 2024-04,19063.8,495.0,26
-2024-04-01,PARTNER,PARTNER Campaign 2024-04,8025.76,461.0,30
-2024-05-01,Paid Search,Paid Search Campaign 2024-05,13580.69,241.0,0
-2024-05-01,LinkedIn,LinkedIn Campaign 2024-05,18387.69,371.0,23
-2024-05-01,Partner,Partner Campaign 2024-05,14581.77,373.0,19
-2024-05-01,Outbound,Outbound Campaign 2024-05,5178.19,256.0,25
-2024-05-01,Organic,Organic Campaign 2024-05,1154.38,339.0,18
-2024-05-01,paid search,paid search Campaign 2024-05,7214.44,467.0,-5
-2024-05-01,PARTNER,PARTNER Campaign 2024-05,13490.16,162.0,30
-2024-06-01,Paid Search,Paid Search Campaign 2024-06,7338.97,153.0,8
-2024-06-01,LinkedIn,LinkedIn Campaign 2024-06,15708.21,59.0,17
-2024-06-01,Partner,Partner Campaign 2024-06,26096.86,244.0,10
-2024-06-01,Outbound,,17081.18,455.0,10
-2024-06-01,Organic,Organic Campaign 2024-06,1086.43,69.0,25
-2024-06-01,paid search,paid search Campaign 2024-06,13257.39,415.0,39
-2024-06-01,PARTNER,PARTNER Campaign 2024-06,20256.75,283.0,10
-2024-07-01,Paid Search,Paid Search Campaign 2024-07,15087.64,233.0,29
-2024-07-01,LinkedIn,LinkedIn Campaign 2024-07,5174.27,151.0,27
-2024-07-01,Partner,Partner Campaign 2024-07,17775.1,479.0,13
-2024-07-01,Outbound,Outbound Campaign 2024-07,13145.66,350.0,18
-2024-07-01,Organic,Organic Campaign 2024-07,1157.69,447.0,9
-2024-07-01,paid search,paid search Campaign 2024-07,27263.99,83.0,13
-2024-07-01,PARTNER,PARTNER Campaign 2024-07,17529.57,120.0,22
-2024-08-01,Paid Search,Paid Search Campaign 2024-08,12633.26,476.0,32
-2024-08-01,LinkedIn,LinkedIn Campaign 2024-08,29496.97,281.0,38
-2024-08-01,Partner,Partner Campaign 2024-08,29560.58,119.0,9
-2024-08-01,Outbound,Outbound Campaign 2024-08,5264.79,279.0,0
-2024-08-01,Organic,Organic Campaign 2024-08,1601.31,342.0,8
-2024-08-01,paid search,paid search Campaign 2024-08,27781.14,271.0,29
-,PARTNER,PARTNER Campaign 2024-08,-16528.9,108.0,13
-2024-09-01,Paid Search,Paid Search Campaign 2024-09,28404.88,194.0,13
-2024-09-01,LinkedIn,LinkedIn Campaign 2024-09,13629.28,340.0,8
-2024-09-01,Partner,Partner Campaign 2024-09,15074.76,348.0,24
-2024-09-01,Outbound,Outbound Campaign 2024-09,6188.48,240.0,18
-2024-09-01,Organic,Organic Campaign 2024-09,2093.99,201.0,8
-2024-09-01,paid search,paid search Campaign 2024-09,28584.48,110.0,8
-2024-09-01,PARTNER,PARTNER Campaign 2024-09,24518.65,172.0,28
-2024-10-01,Paid Search,Paid Search Campaign 2024-10,29149.48,418.0,23
-2024-10-01,LinkedIn,LinkedIn Campaign 2024-10,10808.84,372.0,12
-,Partner,Partner Campaign 2024-10,7536.43,109.0,8
-2024-10-01,Outbound,Outbound Campaign 2024-10,26377.35,100.0,33
-2024-10-01,Organic,Organic Campaign 2024-10,2531.76,155.0,16
-2024-10-01,paid search,paid search Campaign 2024-10,25982.09,373.0,37
-2024-10-01,PARTNER,,14794.21,147.0,0
-2024-11-01,Paid Search,Paid Search Campaign 2024-11,20413.56,57.0,7
-2024-11-01,LinkedIn,LinkedIn Campaign 2024-11,12544.83,439.0,14
-2024-11-01,Partner,Partner Campaign 2024-11,15363.16,465.0,23
-2024-11-01,Outbound,Outbound Campaign 2024-11,14762.18,184.0,14
-2024-11-01,Organic,Organic Campaign 2024-11,1349.69,142.0,21
-2024-11-01,paid search,paid search Campaign 2024-11,24401.67,223.0,0
-2024-11-01,PARTNER,PARTNER Campaign 2024-11,-25974.98,52.0,19
-2024-12-01,Paid Search,Paid Search Campaign 2024-12,13086.72,313.0,13
-2024-12-01,LinkedIn,LinkedIn Campaign 2024-12,26152.99,250.0,13
-2024-12-01,Partner,Partner Campaign 2024-12,25486.69,429.0,20
-2024-12-01,Outbound,,9579.94,442.0,24
-2024-12-01,Organic,Organic Campaign 2024-12,1101.3,55.0,22
-2024-12-01,paid search,paid search Campaign 2024-12,25012.34,211.0,6
-2024-12-01,PARTNER,PARTNER Campaign 2024-12,22668.54,344.0,15
-2023-01-01,paid search,paid search Campaign 2023-01,17871.61,242.0,0
+2023-01-01,Paid Search,Paid Search Campaign 2023-01,9242.36,327.0,11
+2023-01-01,LinkedIn,LinkedIn Campaign 2023-01,28236.1,383.0,22
+2023-01-01,Partner,Partner Campaign 2023-01,24068.86,221.0,34
+2023-01-01,Outbound,Outbound Campaign 2023-01,7213.86,297.0,0
+2023-01-01,Organic,Organic Campaign 2023-01,2609.32,397.0,28
+2023-01-01,paid search,paid search Campaign 2023-01,26023.08,427.0,8
+2023-01-01,PARTNER,PARTNER Campaign 2023-01,15691.21,99.0,28
+2023-02-01,Paid Search,Paid Search Campaign 2023-02,21504.4,456.0,11
+2023-02-01,LinkedIn,LinkedIn Campaign 2023-02,13709.47,177.0,27
+2023-02-01,Partner,Partner Campaign 2023-02,18753.03,160.0,25
+2023-02-01,Outbound,Outbound Campaign 2023-02,25858.02,173.0,25
+2023-02-01,Organic,Organic Campaign 2023-02,1416.9,61.0,10
+2023-02-01,paid search,paid search Campaign 2023-02,24187.62,259.0,9
+2023-02-01,PARTNER,PARTNER Campaign 2023-02,15903.76,488.0,34
+2023-03-01,Paid Search,Paid Search Campaign 2023-03,10219.32,260.0,14
+2023-03-01,LinkedIn,LinkedIn Campaign 2023-03,10538.33,72.0,10
+2023-03-01,Partner,Partner Campaign 2023-03,27410.56,384.0,19
+2023-03-01,Outbound,Outbound Campaign 2023-03,12292.98,457.0,7
+2023-03-01,Organic,Organic Campaign 2023-03,2633.99,391.0,21
+2023-03-01,paid search,paid search Campaign 2023-03,25834.14,,35
+2023-03-01,PARTNER,PARTNER Campaign 2023-03,17062.16,432.0,6
+2023-04-01,Paid Search,Paid Search Campaign 2023-04,21166.08,373.0,21
+2023-04-01,LinkedIn,LinkedIn Campaign 2023-04,26379.08,265.0,14
+2023-04-01,Partner,Partner Campaign 2023-04,19866.64,351.0,30
+,Outbound,Outbound Campaign 2023-04,25889.91,268.0,18
+2023-04-01,Organic,Organic Campaign 2023-04,756.82,213.0,20
+2023-04-01,paid search,paid search Campaign 2023-04,17830.14,428.0,19
+2023-04-01,PARTNER,PARTNER Campaign 2023-04,21922.8,396.0,5
+2023-05-01,Paid Search,Paid Search Campaign 2023-05,13663.68,195.0,21
+2023-05-01,LinkedIn,LinkedIn Campaign 2023-05,14667.54,307.0,32
+,Partner,Partner Campaign 2023-05,13390.84,155.0,32
+2023-05-01,Outbound,Outbound Campaign 2023-05,-5888.37,140.0,32
+2023-05-01,Organic,Organic Campaign 2023-05,1752.04,221.0,14
+2023-05-01,paid search,paid search Campaign 2023-05,22314.68,314.0,32
+2023-05-01,PARTNER,PARTNER Campaign 2023-05,13654.01,484.0,27
+2023-06-01,Paid Search,Paid Search Campaign 2023-06,8966.64,84.0,30
+2023-06-01,LinkedIn,,-10409.24,,11
+2023-06-01,Partner,Partner Campaign 2023-06,9133.18,119.0,25
+2023-06-01,Outbound,Outbound Campaign 2023-06,25299.11,413.0,7
+2023-06-01,Organic,Organic Campaign 2023-06,2128.67,124.0,18
+2023-06-01,paid search,,7482.44,285.0,39
+2023-06-01,PARTNER,PARTNER Campaign 2023-06,7913.32,146.0,38
+2023-07-01,Paid Search,Paid Search Campaign 2023-07,11320.12,296.0,19
+2023-07-01,LinkedIn,LinkedIn Campaign 2023-07,-25372.58,235.0,29
+2023-07-01,Partner,Partner Campaign 2023-07,12405.92,152.0,21
+2023-07-01,Outbound,Outbound Campaign 2023-07,8726.26,173.0,10
+2023-07-01,Organic,Organic Campaign 2023-07,501.09,366.0,14
+2023-07-01,paid search,paid search Campaign 2023-07,24626.7,197.0,17
+2023-07-01,PARTNER,PARTNER Campaign 2023-07,-16248.2,316.0,34
+2023-08-01,Paid Search,Paid Search Campaign 2023-08,9222.05,83.0,28
+2023-08-01,LinkedIn,LinkedIn Campaign 2023-08,7542.56,471.0,24
+2023-08-01,Partner,Partner Campaign 2023-08,27469.93,225.0,21
+2023-08-01,Outbound,,18140.4,237.0,39
+2023-08-01,Organic,Organic Campaign 2023-08,752.85,,10
+2023-08-01,paid search,paid search Campaign 2023-08,21366.54,431.0,9
+2023-08-01,PARTNER,PARTNER Campaign 2023-08,27599.39,319.0,20
+2023-09-01,Paid Search,Paid Search Campaign 2023-09,-28004.79,297.0,5
+2023-09-01,LinkedIn,LinkedIn Campaign 2023-09,18892.14,344.0,6
+2023-09-01,Partner,,22697.63,492.0,25
+2023-09-01,Outbound,Outbound Campaign 2023-09,23061.04,105.0,11
+2023-09-01,Organic,Organic Campaign 2023-09,2436.13,174.0,21
+2023-09-01,paid search,paid search Campaign 2023-09,11328.73,236.0,24
+2023-09-01,PARTNER,PARTNER Campaign 2023-09,6297.73,194.0,32
+2023-10-01,Paid Search,Paid Search Campaign 2023-10,13920.09,75.0,34
+2023-10-01,LinkedIn,LinkedIn Campaign 2023-10,21336.14,194.0,10
+2023-10-01,Partner,Partner Campaign 2023-10,20046.96,,21
+2023-10-01,Outbound,Outbound Campaign 2023-10,6085.75,182.0,23
+2023-10-01,Organic,Organic Campaign 2023-10,782.69,261.0,23
+2023-10-01,paid search,paid search Campaign 2023-10,6320.93,277.0,39
+2023-10-01,PARTNER,PARTNER Campaign 2023-10,29453.79,84.0,32
+2023-11-01,Paid Search,Paid Search Campaign 2023-11,7594.68,494.0,35
+2023-11-01,LinkedIn,LinkedIn Campaign 2023-11,11310.11,410.0,0
+2023-11-01,Partner,Partner Campaign 2023-11,9677.24,360.0,29
+2023-11-01,Outbound,Outbound Campaign 2023-11,9229.03,460.0,0
+2023-11-01,Organic,,1314.69,56.0,8
+2023-11-01,paid search,paid search Campaign 2023-11,10148.86,141.0,7
+2023-11-01,PARTNER,PARTNER Campaign 2023-11,9163.71,406.0,32
+2023-12-01,Paid Search,,28735.86,230.0,31
+2023-12-01,LinkedIn,LinkedIn Campaign 2023-12,5330.78,54.0,14
+2023-12-01,Partner,Partner Campaign 2023-12,-18054.04,430.0,10
+2023-12-01,Outbound,Outbound Campaign 2023-12,7708.5,261.0,36
+2023-12-01,Organic,Organic Campaign 2023-12,2986.7,448.0,26
+2023-12-01,paid search,,29259.12,122.0,11
+2023-12-01,PARTNER,PARTNER Campaign 2023-12,6046.48,95.0,32
+2024-01-01,Paid Search,Paid Search Campaign 2024-01,16952.48,372.0,36
+2024-01-01,LinkedIn,LinkedIn Campaign 2024-01,5451.25,305.0,0
+2024-01-01,Partner,Partner Campaign 2024-01,24178.97,108.0,21
+2024-01-01,Outbound,Outbound Campaign 2024-01,25545.23,414.0,34
+2024-01-01,Organic,Organic Campaign 2024-01,2615.01,61.0,20
+2024-01-01,paid search,paid search Campaign 2024-01,25507.33,148.0,22
+2024-01-01,PARTNER,,5896.89,447.0,26
+2024-02-01,Paid Search,Paid Search Campaign 2024-02,26058.01,118.0,24
+2024-02-01,LinkedIn,LinkedIn Campaign 2024-02,14243.91,134.0,24
+2024-02-01,Partner,Partner Campaign 2024-02,9471.42,130.0,11
+2024-02-01,Outbound,,20991.27,117.0,38
+2024-02-01,Organic,Organic Campaign 2024-02,1285.96,294.0,19
+2024-02-01,paid search,paid search Campaign 2024-02,7546.09,220.0,38
+2024-02-01,PARTNER,PARTNER Campaign 2024-02,27953.9,343.0,11
+2024-03-01,Paid Search,Paid Search Campaign 2024-03,25030.04,328.0,18
+2024-03-01,LinkedIn,LinkedIn Campaign 2024-03,23087.78,264.0,38
+2024-03-01,Partner,Partner Campaign 2024-03,24823.19,495.0,26
+2024-03-01,Outbound,Outbound Campaign 2024-03,19146.13,261.0,7
+2024-03-01,Organic,Organic Campaign 2024-03,650.78,450.0,20
+2024-03-01,paid search,paid search Campaign 2024-03,6744.57,279.0,0
+2024-03-01,PARTNER,PARTNER Campaign 2024-03,17049.18,342.0,5
+2024-04-01,Paid Search,Paid Search Campaign 2024-04,27781.14,271.0,29
+,LinkedIn,LinkedIn Campaign 2024-04,-16528.9,108.0,13
+2024-04-01,Partner,Partner Campaign 2024-04,28404.88,194.0,13
+2024-04-01,Outbound,Outbound Campaign 2024-04,13629.28,340.0,8
+2024-04-01,Organic,Organic Campaign 2024-04,1388.07,348.0,27
+2024-04-01,paid search,paid search Campaign 2024-04,6188.48,240.0,18
+2024-04-01,PARTNER,PARTNER Campaign 2024-04,21611.01,201.0,5
+2024-05-01,Paid Search,Paid Search Campaign 2024-05,28584.48,110.0,8
+2024-05-01,LinkedIn,LinkedIn Campaign 2024-05,24518.65,172.0,28
+2024-05-01,Partner,Partner Campaign 2024-05,29149.48,418.0,23
+2024-05-01,Outbound,Outbound Campaign 2024-05,10808.84,372.0,12
+,Organic,Organic Campaign 2024-05,573.93,109.0,11
+2024-05-01,paid search,paid search Campaign 2024-05,26377.35,100.0,33
+2024-05-01,PARTNER,PARTNER Campaign 2024-05,25664.46,252.0,36
+2024-06-01,Paid Search,Paid Search Campaign 2024-06,12160.12,373.0,37
+2024-06-01,LinkedIn,,14794.21,147.0,0
+2024-06-01,Partner,Partner Campaign 2024-06,20413.56,57.0,7
+2024-06-01,Outbound,Outbound Campaign 2024-06,12544.83,439.0,14
+2024-06-01,Organic,Organic Campaign 2024-06,1419.22,465.0,26
+2024-06-01,paid search,paid search Campaign 2024-06,14762.18,184.0,14
+2024-06-01,PARTNER,,14719.32,333.0,18
+2024-07-01,Paid Search,Paid Search Campaign 2024-07,-10238.64,367.0,27
+2024-07-01,LinkedIn,LinkedIn Campaign 2024-07,-13541.1,52.0,19
+2024-07-01,Partner,Partner Campaign 2024-07,13086.72,313.0,13
+2024-07-01,Outbound,Outbound Campaign 2024-07,26152.99,250.0,13
+2024-07-01,Organic,Organic Campaign 2024-07,2512.56,429.0,23
+2024-07-01,paid search,,9579.94,442.0,24
+2024-07-01,PARTNER,PARTNER Campaign 2024-07,12419.43,55.0,19
+2024-08-01,Paid Search,Paid Search Campaign 2024-08,25012.34,211.0,6
+2024-08-01,LinkedIn,LinkedIn Campaign 2024-08,22668.54,344.0,15
+2024-08-01,Partner,Partner Campaign 2024-08,-27507.57,297.0,33
+2024-08-01,Outbound,,20221.81,289.0,31
+2024-08-01,Organic,Organic Campaign 2024-08,824.15,124.0,27
+2024-08-01,paid search,paid search Campaign 2024-08,17848.05,413.0,30
+2024-08-01,PARTNER,PARTNER Campaign 2024-08,7288.33,288.0,13
+2024-09-01,Paid Search,,14633.37,181.0,39
+2024-09-01,LinkedIn,LinkedIn Campaign 2024-09,9175.34,113.0,34
+2024-09-01,Partner,,7368.19,283.0,9
+2024-09-01,Outbound,Outbound Campaign 2024-09,26160.56,149.0,28
+2024-09-01,Organic,Organic Campaign 2024-09,2895.36,421.0,24
+2024-09-01,paid search,,22549.52,171.0,34
+2024-09-01,PARTNER,PARTNER Campaign 2024-09,13203.71,139.0,15
+2024-10-01,Paid Search,Paid Search Campaign 2024-10,7256.32,470.0,24
+2024-10-01,LinkedIn,LinkedIn Campaign 2024-10,16879.7,88.0,8
+2024-10-01,Partner,Partner Campaign 2024-10,5755.15,445.0,11
+2024-10-01,Outbound,Outbound Campaign 2024-10,13690.67,326.0,19
+2024-10-01,Organic,Organic Campaign 2024-10,2543.49,292.0,0
+2024-10-01,paid search,paid search Campaign 2024-10,15485.09,355.0,23
+2024-10-01,PARTNER,PARTNER Campaign 2024-10,5189.23,242.0,0
+2024-11-01,Paid Search,Paid Search Campaign 2024-11,12084.08,438.0,13
+2024-11-01,LinkedIn,LinkedIn Campaign 2024-11,5256.38,475.0,21
+2024-11-01,Partner,Partner Campaign 2024-11,15310.98,,12
+2024-11-01,Outbound,Outbound Campaign 2024-11,14470.68,365.0,10
+2024-11-01,Organic,Organic Campaign 2024-11,2558.0,289.0,29
+2024-11-01,paid search,,9355.58,220.0,28
+2024-11-01,PARTNER,PARTNER Campaign 2024-11,13524.89,113.0,22
+2024-12-01,Paid Search,Paid Search Campaign 2024-12,6179.74,438.0,24
+2024-12-01,LinkedIn,LinkedIn Campaign 2024-12,24631.22,251.0,0
+2024-12-01,Partner,Partner Campaign 2024-12,27233.9,194.0,24
+2024-12-01,Outbound,Outbound Campaign 2024-12,17715.22,334.0,34
+2024-12-01,Organic,Organic Campaign 2024-12,2938.8,113.0,25
+2024-12-01,paid search,paid search Campaign 2024-12,25005.25,486.0,38
+2024-12-01,PARTNER,PARTNER Campaign 2024-12,7825.19,438.0,21
+2023-01-01,paid search,paid search Campaign 2023-01,26023.08,427.0,8

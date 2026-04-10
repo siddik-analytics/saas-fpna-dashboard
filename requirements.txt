@@ -3,4 +3,5 @@ numpy
 faker
 duckdb
 pyarrow
-openpyxl
+python-dateutil
+tabulate
