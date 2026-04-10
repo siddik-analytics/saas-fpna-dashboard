@@ -28,6 +28,7 @@ FROM read_csv_auto('data/clean/cash_balance_clean.csv', HEADER=TRUE);
 
 -- -----------------------------------
 -- Dimension: Date
+-- Daily-level date dimension
 -- -----------------------------------
 CREATE TABLE dim_date AS
 WITH all_dates AS (
@@ -58,6 +59,21 @@ FROM all_dates;
 
 
 -- -----------------------------------
+-- Dimension: Month
+-- One row per month for Power BI relationships
+-- -----------------------------------
+CREATE TABLE dim_month AS
+SELECT DISTINCT
+    month_start,
+    EXTRACT(YEAR FROM month_start) AS year,
+    EXTRACT(MONTH FROM month_start) AS month_num,
+    STRFTIME(month_start, '%Y-%m') AS year_month,
+    EXTRACT(QUARTER FROM month_start) AS quarter_num
+FROM dim_date
+ORDER BY month_start;
+
+
+-- -----------------------------------
 -- Dimension: Customer
 -- -----------------------------------
 CREATE TABLE dim_customer AS
@@ -77,24 +93,26 @@ FROM stg_customers;
 
 -- -----------------------------------
 -- Dimension: Plan
+-- One row per plan
 -- -----------------------------------
 CREATE TABLE dim_plan AS
 SELECT DISTINCT
-    plan_name,
-    billing_frequency
-FROM stg_customers
+    plan_name
+FROM stg_subscriptions
 WHERE plan_name IS NOT NULL;
 
 
 -- -----------------------------------
 -- Dimension: Account
+-- One row per account code
 -- -----------------------------------
 CREATE TABLE dim_account AS
 SELECT DISTINCT
     account_code,
     account_name,
     account_category
-FROM stg_gl;
+FROM stg_gl
+WHERE account_code IS NOT NULL;
 
 
 -- -----------------------------------

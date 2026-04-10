@@ -1,21 +1,21 @@
 account_code,account_name,account_category
-6300.0,general and administrative,G&A
-Unknown,sales & marketing,Sales & Marketing
-Unknown,sales and marketing,Sales & Marketing
 Unknown,s&m,Sales & Marketing
 Unknown,general and administrative,G&A
 Unknown,r&d,R&D
-Unknown,research and development,R&D
-6100.0,s&m,Sales & Marketing
+Unknown,sales and marketing,Sales & Marketing
 Unknown,misc expense,Other
-6200.0,research and development,R&D
 5000.0,cost of service,COGS
 6200.0,r&d,R&D
 1010.0,cash,Cash
 Unknown,g&a,G&A
+6100.0,s&m,Sales & Marketing
+6200.0,research and development,R&D
+Unknown,research and development,R&D
 Unknown,cash,Cash
 6100.0,sales & marketing,Sales & Marketing
 Unknown,cost of service,COGS
+6300.0,general and administrative,G&A
+Unknown,sales & marketing,Sales & Marketing
 6300.0,g&a,G&A
 9999.0,misc expense,Other
 6100.0,sales and marketing,Sales & Marketing

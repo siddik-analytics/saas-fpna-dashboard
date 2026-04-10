@@ -1,11 +1,6 @@
-plan_name,billing_frequency
-Growth,Monthly
-Pro,Annual
-Unknown,Annual
-Basic,Annual
-Pro,Monthly
-Unknown,Monthly
-Enterprise,Monthly
-Enterprise,Annual
-Basic,Monthly
-Growth,Annual
+plan_name
+Growth
+Unknown
+Basic
+Enterprise
+Pro
